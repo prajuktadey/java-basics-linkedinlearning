@@ -7,7 +7,7 @@ public class functionBasics
         System.out.println("Waiting for developer tea time...");
         System.out.println("Type in a random word and press Enter to start developer tea time!");
         Scanner sc = new Scanner(System.in);
-        sc.next(); //randon input
+        sc.next(); //random input
         System.out.println("It's developer tea time!");
 
     }
